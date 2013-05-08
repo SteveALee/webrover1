@@ -5,7 +5,7 @@ Code for WebRover1 project, part of International Space Apps Challenge 2013
 
 Project page: http://spaceappschallenge.org/project/webrover1/
 
-## Set up
+## Set up (Mac OS X)
 
 1. Download Grails 2.2.1 and unzip somewhere suitable
    http://www.grails.org/download
@@ -77,3 +77,7 @@ http://lifehacker.com/5650095/ip-webcam-turns-your-android-phone-into-a-remote-c
 Easy rule builder, adapting Tiago Jesus original desktop interface for smaller, mobile devices https://github.com/tiagojesus/LegoRoversUI
 
 ![Rule builder](https://pbs.twimg.com/media/BITi_QnCUAIuRyi.jpg:large)
+
+## Mailing list
+
+Please contact us on the project mailing list 'legorovers@googlegroups.com' (and web interface https://groups.google.com/forum/?fromgroups#!forum/legorovers).
