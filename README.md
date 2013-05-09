@@ -80,4 +80,4 @@ Easy rule builder, adapting Tiago Jesus original desktop interface for smaller, 
 
 ## Mailing list
 
-Please contact us on the project mailing list 'legorovers@googlegroups.com' (and web interface https://groups.google.com/forum/?fromgroups#!forum/legorovers).
+Please contact us on the project mailing list legorovers@googlegroups.com or [web interface](https://groups.google.com/forum/?fromgroups#!forum/legorovers).
