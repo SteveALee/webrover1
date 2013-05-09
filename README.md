@@ -77,3 +77,8 @@ http://lifehacker.com/5650095/ip-webcam-turns-your-android-phone-into-a-remote-c
 Easy rule builder, adapting Tiago Jesus original desktop interface for smaller, mobile devices https://github.com/tiagojesus/LegoRoversUI
 
 ![Rule builder](https://pbs.twimg.com/media/BITi_QnCUAIuRyi.jpg:large)
+
+
+## Mailing list
+
+Please contact us on the project mailing list legorovers@googlegroups.com or [web interface](https://groups.google.com/forum/?fromgroups#!forum/legorovers).
