@@ -5,7 +5,7 @@ Code for WebRover1 project, part of International Space Apps Challenge 2013
 
 Project page: http://spaceappschallenge.org/project/webrover1/
 
-## Set up
+## Set up (Mac OS X)
 
 1. Download Grails 2.2.1 and unzip somewhere suitable
    http://www.grails.org/download
