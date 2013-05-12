@@ -18,12 +18,14 @@ Project page: http://spaceappschallenge.org/project/webrover1/
    
 4. Set up environment variables
 
+```shell
 export GRAILS_HOME=~/springsource/grails-2.2.1
 export NXJ_HOME=~/legorovers/leJOS_NXJ_0.9.1beta-3
-export DYLD_LIBRARY_PATH=~/legorovers/WW_MountainLion
 export PATH=$PATH:$NXJ_HOME/bin:$GRAILS_HOME/bin
 export CLASSPATH=$NXJ_HOME/lib/pc/pccomm.jar:$NXJ_HOME/lib/pc/3rdparty/bluecove.jar
 export JAVA_OPTS="-d32 -Dnxj.home=$NXJ_HOME"
+export DYLD_LIBRARY_PATH=~/legorovers/WW_MountainLion  # if using bluetooth driver
+```
 
 5. Install leJOS on NXT brick (this was already done -- or see readme!)
 
@@ -34,13 +36,14 @@ Set Passcode Preferences...
 1234
 
 7. Configure robot details in grails-app/conf/Config.groovy
+Copy the Claudia block; rename and edit.
 
 8. Run Grails App
 
+```shell
 cd lejos-server
-grails run-app
-
-(or -Dgrails.env=claudia run-app)
+grails -Dgrails.env=claudia run-app
+```
 
 9. Access from browser
 
